@@ -8,7 +8,12 @@ System.out.println("nihao");
 System.out.println("nihao2");
 System.out.println("nihao3");
 System.out.println("nihao4");
+
 System.out.println("777");
+
+System.out.println("nihao3");
+System.out.println("nihao4");
+
 	}
 
 }
